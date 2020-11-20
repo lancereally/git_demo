@@ -3,5 +3,6 @@ public class test_1 {
         class JDI{
             String str;
         }
+        System.out.println("酸根东仍终端?");
     }
 }
