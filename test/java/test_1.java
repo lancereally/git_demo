@@ -1,6 +1,6 @@
 public class test_1 {
     public static void main(String[] args) {
-        int a = 123;
+        int a = 222;
         class Jiuzhe{
             char a = 'a';
         }
